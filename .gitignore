@@ -1,0 +1,8 @@
+/Debug
+/ipch
+/JuneNet/Debug
+/TimeServer/Debug
+*.opensdf
+*.suo
+*.vcxproj.user
+*.sdf
